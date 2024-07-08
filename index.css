@@ -1,0 +1,267 @@
+.body1 {
+    background-image: url(./Free_Flame.jpeg);
+    border: 8px solid greenyellow;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 30px;
+
+}
+
+#heading1 {
+    border: 7px solid red;
+    background-color: black;
+    color: white;
+    height: 150px;
+    width: 350px;
+    border-radius: 35px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: xx-large;
+    padding-left: 20px;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    margin-left: 10px;
+    font-size: xx-large;
+}
+
+.quality {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: xx-large;
+}
+
+.heading2 {
+    background-color: black;
+    color: white;
+    height: 80px;
+    width: 470px;
+    border: 7px solid red;
+    border-radius: 35px;
+    position: absolute;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: xx-large;
+    justify-content: space-around;
+    display: flex;
+    margin-left: 120px;
+    margin-top: 10px;
+    padding-left: 50px;
+    align-items: end;
+    font-size: xx-large;
+}
+
+#heading3 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    border: 7px solid red;
+    border-radius: 35px;
+    height: 150px;
+    width: 400px;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 654px;
+    font-size: x-large;
+}
+
+.details {
+    display: flex;
+    padding-left: 50px;
+    padding-top: 20px;
+
+}
+
+#heading4 {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 150px;
+
+}
+
+.offers {
+    height: 450px;
+    width: 450px;
+    border-radius: 50%;
+    border: 7px solid gray;
+    margin-top: 230px;
+    margin-left: 50px;
+    background-color: rgb(69, 160, 160);
+
+}
+
+.offer1 {
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 90px;
+    margin-left: 100px;
+    text-transform: uppercase;
+
+}
+
+.offer2 {
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-top: 45px;
+    margin-left: 25px;
+
+}
+
+.offer3 {
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-left: 80px;
+
+}
+
+#form {
+    height: 850px;
+    width: 500px;
+    border: 7px dashed red;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+
+#regForm {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: rgb(212, 52, 31);
+}
+
+.formFields {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(212, 52, 31);
+
+}
+
+.formInput {
+    display: flex;
+    margin-left: 160px;
+    align-items: center;
+    font-size: medium;
+
+}
+
+.date {
+    display: flex;
+    width: 170px;
+    margin-left: 160px;
+    align-items: center;
+    font-size: large;
+
+}
+
+.tick {
+    margin-left: 240px;
+    font-size: x-large;
+
+}
+
+.sub {
+    margin-left: 205px;
+    font-size: medium;
+
+}
+
+.set {
+    margin-left: 225px;
+    font-size: medium;
+}
+
+#heading5 {
+    background-color: black;
+    border: 7px solid red;
+    color: white;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    height: 100px;
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 580px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+#menuOptions {
+    color: darkblue;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.starters {
+    background-color: aqua;
+    border: 3px solid darkgreen;
+    border-radius: 35px;
+    width: 25%;
+}
+
+.heads {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 120px;
+
+}
+
+li {
+    margin-left: 100px;
+    font-size: x-large;
+}
+
+#menuOptions2 {
+    color: darkblue;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+
+}
+
+.starters2 {
+
+    background-color: aqua;
+    border: 3px solid darkgreen;
+    border-radius: 35px;
+    width: 25%;
+}
+
+.heads2 {
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 120px;
+
+}
